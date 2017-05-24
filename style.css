@@ -1,0 +1,18 @@
+table{
+	width:100%;
+}
+img{
+width:500px;
+}
+td + td + td + td{
+width : 20%;
+}
+td:first-child + td{
+width:10%;
+}
+td:first-child{
+width:30%;
+}
+td:first-child + td + td {
+width:30%;
+}
